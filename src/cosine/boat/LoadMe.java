@@ -1,6 +1,6 @@
 package cosine.boat;
 
-import java.io.IOException;
+import java.io.*;
 import java.util.*;
 import java.io.*;
 
